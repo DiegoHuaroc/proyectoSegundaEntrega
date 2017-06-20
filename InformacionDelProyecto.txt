@@ -1,0 +1,13 @@
+Integrantes del proyecto:
+
+Karem Perez Jines
+Diego Huaroc Rivero
+
+Se debe de usar el programa con datos.txt en la misma carpeta, ya que de ese
+archibo obtiene los datos.Sin embargo, en caso se quiera empezar a ingresar 
+datos en un nuevo archivo se tendra que sacar a datos.txt de la carpeta. O en
+caso se quiera usar otra base de datos del mismo formato tendra que tener de 
+nombre datos.txt usando el siguiente formato.
+
+nombre,Posicion x,Posicion x,estado //Primera linea
+ejemplo,123,234,vacio               //Apartir de la segunda linea en adelante
